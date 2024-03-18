@@ -1,7 +1,7 @@
 # Setup
 title:        Teja Teppala
 tagline:      Doctoral Candidate in Astronomy | Researcher | STEM Communicator
-baseurl:      "https://tejateppala.github.io/"
+baseurl:      ""
 paginate:     1
 locale:       "en"
 
