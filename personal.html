@@ -2,7 +2,44 @@
 layout: default
 title: {{ site.personal }}
 ---
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
 
 <div id="home">
-  Personal
+  <h3>
+  Hello again! Welcome to my personal page.
+  </h3>
 </div>
+
+<p>We have two pet Chihuahuas: Faith (left, below), and Truffle (right, below).</p>
+
+<div class="row">
+  <div class="column">
+    <img src="/media/Faith.jpg" alt="Faith" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/media/Truffle.jpg" alt="Truffle" style="width:100%">
+  </div>
+</div> 
+</body>
+</html>
