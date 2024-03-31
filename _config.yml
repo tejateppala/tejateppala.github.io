@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:665a446c78231f02f9d836fea7ab8c15cc92617a35a0dde63457de7cc92f8657
-size 326
+# Setup
+title:        Teja Teppala
+tagline:      Doctoral Candidate in Astronomy | Researcher | STEM Communicator
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Teja Teppala
+  url:        https://tejateppala.github.io/ 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
