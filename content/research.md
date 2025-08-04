@@ -1,7 +1,7 @@
 ---
 title: "Research"
-date: 2025-08-04
 type: landing
+toc: false
 ---
 
 ### What I do, in simple words
@@ -13,11 +13,9 @@ This could be the missing piece to complete the puzzle in our understanding of t
 
 ---
 
-### Getting more technical
+![Antennae Galaxies](/uploads/Antennae_galaxies_xl.jpg)
 
-![Antennae Galaxies](/media/Antennae_galaxies_xl.jpg)
-
-#### My research aims to answer the following questions:
+### My research aims to answer the following questions:
 1. Is star formation in distant low-mass galaxies bursty?  
 2. What is the timescale of these star bursts?  
 3. How do these bursts contribute to the stellar mass assembly in galaxies?  
