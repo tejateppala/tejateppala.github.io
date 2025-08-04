@@ -1,7 +1,9 @@
 ---
-title: "Overview"
+title: "Overview of my research"
 type: page
 toc: false
+show_social: false
+show_prev_next: false
 ---
 
 ### What I do, in simple words

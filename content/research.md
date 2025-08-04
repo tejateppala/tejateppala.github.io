@@ -10,12 +10,11 @@ sections:
   - block: pages
     content:
       title: My Research
-      text: Learn more about my scientific research questions, theoretical frameworks, and publications.
+      text: Learn more about my research and publications.
       filters:
         folders:
           - research
     design:
-      view: card
-      columns: 1
+      view: list
 ---
 
