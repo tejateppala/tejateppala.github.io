@@ -4,6 +4,7 @@ type: page
 toc: false
 show_social: false
 show_prev_next: false
+show_reading_time: false
 ---
 
 ### What I do, in simple words

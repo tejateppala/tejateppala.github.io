@@ -8,6 +8,10 @@ appearance:
   mode: system
   color: emerald
 
+page:
+  show_prev_next: false
+
+
 # SEO
 marketing:
   seo:

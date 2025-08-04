@@ -2,16 +2,16 @@
 title: "Outreach"
 type: page
 toc: false
+show_social: false
+show_prev_next: false
+show_reading_time: false
 ---
 
 Being from a marginalized community, my father had to overcome many systemic barriers to be where he is today. He was able to get mentoring and support to get into medical school which helped lift him out of poverty. Growing up I had a great interest in doing science experiments at home, which was supported by my parents’ efforts. Once in college, I started observing the systemic inequality in education and opportunity around me. Motivated by a desire to effect change, I began my journey in outreach in 2013. I have since committed to making science more accessible, to fostering curiosity, critical thinking, and scientific literacy amongst students of all backgrounds.
 
 ---
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <img src="/uploads/AX3A1056-min.jpg" alt="Outreach at Laws Observatory, Columbia MO." style="width:49%">
-  <img src="/uploads/PXL_20231025_232330447-min.jpg" alt="Outreach at Laws Observatory, Columbia MO." style="width:49%">
-</div>
+![Outreach at Laws Observatory, Columbia MO.](/uploads/AX3A1056-min.jpg)
 
 ---
 
@@ -21,10 +21,7 @@ You can find my presentations on the [resources page](/resources). You can downl
 
 ---
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <img src="/uploads/IMG_4877-min.JPG" alt="Outreach at 4-H club in Centralia MO." style="width:49%">
-  <img src="/uploads/IMG_4896-min.JPG" alt="Outreach at 4-H club in Centralia MO." style="width:49%">
-</div>
+![Outreach at 4-H club in Centralia MO.](/uploads/IMG_4896-min.JPG)
 
 ---
 
@@ -32,10 +29,7 @@ During my graduate study, I have noticed a change in the public’s perception o
 
 ---
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <img src="/uploads/IMG_3628.jpg" alt="Outreach at The Children's School at Stephens College, Columbia MO." style="width:49%">
-  <img src="/uploads/DE299596-5189-4C78-87D9-120B7B9A77CB.JPG" alt="Outreach at The Children's School at Stephens College, Columbia MO." style="width:49%">
-</div>
+![Outreach at The Children's School at Stephens College, Columbia MO.](/uploads/IMG_3628.jpg)
 
 ---
 
@@ -43,7 +37,5 @@ As I continue to grow as an educator and advocate for science education, my goal
 
 ---
 
-<div style="text-align: center;">
-  <img src="/uploads/PXL_20240312_230318170-min.jpg" alt="Outreach at 4-H club in Columbia MO." style="width:100%;">
-</div>
+![Outreach at 4-H club in Columbia MO.](/uploads/PXL_20240312_230318170-min.jpg)
 
