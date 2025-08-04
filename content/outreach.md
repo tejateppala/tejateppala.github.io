@@ -1,7 +1,8 @@
 ---
 title: "Research"
 date: 2025-08-04
-type: landing
+type: page
+layout: page
 ---
 
 ### What I do, in simple words
