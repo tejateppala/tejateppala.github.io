@@ -111,9 +111,10 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  
+
+---
 
 ## About Me
 
 I am a PhD astrophysicist and science communicator passionate about understanding how galaxies evolve and how science can inform public policy. My work combines data from cutting-edge instruments like **JWST** with models of **bursty star formation** in low-mass galaxies. Beyond research, I am deeply committed to **science outreach**, **community engagement**, and bridging the gap between **science and society**. I’ve organized public events, testified before state legislatures, and mentored the next generation of physicists and science advocates.
----
+
