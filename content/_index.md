@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: Bullet-Cluster.jpg
           filters:
-            brightness: 0.25
+            brightness: 0.45
           size: cover
           position: center
           parallax: false
