@@ -118,4 +118,4 @@ awards:
 I am a PhD astrophysicist and science communicator passionate about understanding how galaxies evolve and how science can inform public policy. My work combines data from cutting-edge instruments like **JWST** with models of **bursty star formation** in low-mass galaxies.
 
 Beyond research, I am deeply committed to **science outreach**, **community engagement**, and bridging the gap between **science and society**. I’ve organized public events, testified before state legislatures, and mentored the next generation of physicists and science advocates.
-
+___
