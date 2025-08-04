@@ -13,8 +13,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    org_name: 'Teja Teppala'
+    description: 'Astrophysicist, science communicator, and policy advocate studying galaxy formation and evolution.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -25,6 +25,11 @@ marketing:
   verification:
     google: ''
     baidu: ''
+    
+# Site icon (favicon and app icons)
+icon:
+  favicon: favicon.png
+  apple_touch_icon: apple-touch-icon.png
 
 # Site header
 header:
@@ -35,12 +40,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Teja Teppala"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Teja Teppala. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
