@@ -2,9 +2,10 @@
 title: "Outreach"
 type: page
 toc: false
-show_social: false
-show_prev_next: false
-show_reading_time: false
+show_date: false
+reading_time: false
+share: false
+pager: false
 ---
 
 Being from a marginalized community, my father had to overcome many systemic barriers to be where he is today. He was able to get mentoring and support to get into medical school which helped lift him out of poverty. Growing up I had a great interest in doing science experiments at home, which was supported by my parents’ efforts. Once in college, I started observing the systemic inequality in education and opportunity around me. Motivated by a desire to effect change, I began my journey in outreach in 2013. I have since committed to making science more accessible, to fostering curiosity, critical thinking, and scientific literacy amongst students of all backgrounds.

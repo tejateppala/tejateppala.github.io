@@ -6,11 +6,10 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: blue
 
 page:
-  show_prev_next: false
-
+  show_social: false
 
 # SEO
 marketing:
@@ -29,11 +28,7 @@ marketing:
   verification:
     google: ''
     baidu: ''
-    
-# Site icon (favicon and app icons)
-icon:
-  favicon: favicon.png
-  apple_touch_icon: apple-touch-icon.png
+
 
 # Site header
 header:

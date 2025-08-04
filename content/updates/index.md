@@ -2,7 +2,10 @@
 title: "Updates"
 type: page
 toc: false
-show_reading_time: false
+show_date: false
+reading_time: false
+share: false
+pager: false
 ---
 
 ### July 9, 2025

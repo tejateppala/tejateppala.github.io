@@ -2,9 +2,10 @@
 title: "Overview of my research"
 type: page
 toc: false
-show_social: false
-show_prev_next: false
-show_reading_time: false
+show_date: false
+reading_time: false
+share: false
+pager: false
 ---
 
 ### What I do, in simple words
