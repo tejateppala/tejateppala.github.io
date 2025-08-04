@@ -3,7 +3,7 @@
 title: Teja Teppala
 
 # Name pronunciation (optional)
-name_pronunciation: THAY-jaah THAP-pah-lah
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Teja
