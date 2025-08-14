@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Teja_Teppala_Short_CV_July_2025.pdf
+        url: uploads/Teja_Teppala_CV_August_2025.pdf
     design:
       css_class: dark
       background:
